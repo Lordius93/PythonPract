@@ -13,4 +13,4 @@ if os.system(zip_command) == 0:
 else:
     print("Создание резервной копии не удалось")
 
-#nic
+#nice
