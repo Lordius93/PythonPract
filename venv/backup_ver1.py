@@ -12,3 +12,5 @@ if os.system(zip_command) == 0:
     print("Резервная копия успешно создана в", source)
 else:
     print("Создание резервной копии не удалось")
+
+#nice
